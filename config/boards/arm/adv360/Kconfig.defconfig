@@ -6,7 +6,7 @@
 if BOARD_ADV360_LEFT
 
 	config ZMK_KEYBOARD_NAME
-	default "Dritan-Adv360Pro"
+	default "Dritan--Adv360Pro"
 
 endif # BOARD_ADV360_LEFT
 
